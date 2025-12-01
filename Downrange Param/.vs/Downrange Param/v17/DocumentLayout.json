@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wills\\source\\repos\\Downrange Param\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3DDAEB22-661B-490C-B31E-8131FC84374A}|Downrange Param\\Downrange Param.csproj|C:\\Users\\wills\\source\\repos\\Downrange Param\\downrange param\\downrangedistance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DDAEB22-661B-490C-B31E-8131FC84374A}|Downrange Param\\Downrange Param.csproj|solutionrelative:downrange param\\downrangedistance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DDAEB22-661B-490C-B31E-8131FC84374A}|Downrange Param\\Downrange Param.csproj|C:\\Users\\wills\\source\\repos\\Downrange Param\\downrange param\\downrangedistancefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DDAEB22-661B-490C-B31E-8131FC84374A}|Downrange Param\\Downrange Param.csproj|solutionrelative:downrange param\\downrangedistancefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DownrangeDistanceFactory.cs",
+              "DocumentMoniker": "C:\\Users\\wills\\source\\repos\\Downrange Param\\Downrange Param\\DownrangeDistanceFactory.cs",
+              "RelativeDocumentMoniker": "Downrange Param\\DownrangeDistanceFactory.cs",
+              "ToolTip": "C:\\Users\\wills\\source\\repos\\Downrange Param\\Downrange Param\\DownrangeDistanceFactory.cs",
+              "RelativeToolTip": "Downrange Param\\DownrangeDistanceFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T07:09:16.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DownrangeDistance.cs",
+              "DocumentMoniker": "C:\\Users\\wills\\source\\repos\\Downrange Param\\Downrange Param\\DownrangeDistance.cs",
+              "RelativeDocumentMoniker": "Downrange Param\\DownrangeDistance.cs",
+              "ToolTip": "C:\\Users\\wills\\source\\repos\\Downrange Param\\Downrange Param\\DownrangeDistance.cs",
+              "RelativeToolTip": "Downrange Param\\DownrangeDistance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAK4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T07:09:15.389Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
